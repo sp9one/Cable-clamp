@@ -1,2 +1,1 @@
-# Cable-clamp
-Holder for a wire antenna mounted under a pilot line, enabling smooth sliding for quick deployment and retraction.
+This project provides a suspension holder for wire antennas mounted beneath a pilot line. The design allows the antenna to slide along the line, enabling easy deployment and retraction during setup and operation.
