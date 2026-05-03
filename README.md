@@ -14,3 +14,6 @@ This project provides a suspension holder for wire antennas mounted beneath a pi
 
 **Figure 3: Assembly method**
 <img width="430" height="577" alt="Assembly method" src="https://github.com/user-attachments/assets/64e4bd5d-5fa0-439a-8a09-eac1a89a726c" />
+
+
+<img width="994" height="733" alt="image" src="https://github.com/user-attachments/assets/b012a3d1-de75-4493-80ee-26896e63023f" />
