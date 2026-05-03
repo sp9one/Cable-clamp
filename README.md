@@ -4,6 +4,21 @@ The model is prepared for 3D printing using FDM method with ASA material.
 
 This project provides a suspension holder for wire antennas mounted beneath a pilot line. The design allows the antenna to slide along the line, enabling easy deployment and retraction during setup.
 
+## Features
+
+- **Easy Assembly/Disassembly** - Quick and straightforward mounting and removal
+- **Adjustable Positioning** - Antenna can slide along the pilot line for flexible deployment
+- **Weather Resistant** - ASA material provides durability in outdoor conditions
+- **Lightweight Design** - 3D printed construction minimizes weight while maintaining strength
+- **Reliable Suspension** - Secure cable management for wire antenna installations
+
+## Specifications
+
+- **Printing Method:** FDM (Fused Deposition Modeling)
+- **Material:** ASA (Acrylonitrile Styrene Acrylate)
+- **Application:** Wire antenna suspension on pilot lines
+- **Design Type:** Adjustable clamp holder
+  
 ## Images
 
 **Figure 1: Wire antenna suspended on pilot lines using the proposed clamp holder**
